@@ -1,5 +1,5 @@
 ---
-maintainer: -
+maintainer: 
 status: Discontinued
 ---
 
